@@ -1,6 +1,6 @@
 # Multimodal Hemoglobin Regression Project
 
-이 프로젝트는 손톱(nail)과 결막(conjunctiva) 이미지를 활용한 다중 모달리티 헤모글로빈(Hb) 회귀 모델입니다.
+이 프로젝트는 성균관대학교 URP3형 - 손톱(nail)과 결막(conjunctiva) 이미지를 활용한 다중 모달리티 헤모글로빈(Hb) 회귀 모델입니다.
 
 ## 📋 목차
 
